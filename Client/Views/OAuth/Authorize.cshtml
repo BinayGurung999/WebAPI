@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+@Model string
+    @{ 
+        var url = $"/OAuth/Authorize{Model}";
+    }
+    <form action="@url" method="post">
+        <input type="text" name="username" value="" /> 
+        <input type="submit" value="submit" />
+    </form>
+</body>
+</html>

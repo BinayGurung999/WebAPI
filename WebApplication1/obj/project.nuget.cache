@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "RLP2UO0V725ipqH/PzLy6v93FzgJwwkrtBg3bVC5+vmtf7cZ0AAKF0Ogs1RTlJ2ObbyCHj4g1vkzappeKwNnyw==",
+  "success": true,
+  "projectFilePath": "C:\\Georgian_College\\DRIVE\\GEORGIAN_COLLEGE\\INFORMATION_ENCODING\\PROJECTS\\Final_Project\\Basics\\Authentication\\WebApplication1\\Basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\binay\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\binay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\binay\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\binay\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\binay\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
